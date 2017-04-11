@@ -1,13 +1,13 @@
 # bizagiwatchdog
 
-#Introduction 
+# Introduction 
 Bizagi cloud monitoring tools
 
-#Getting Started
+# Getting Started
 1.	You need to install Scala 2.11
 
-#Build and Test
+# Build and Test
 You need SBT
 
-#Contribute
+# Contribute
 Make a fork and then a pull request. 
